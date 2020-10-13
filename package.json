@@ -1,5 +1,5 @@
 {
-    "name": "@awema-pl/front-module-utilities",
+    "name": "awema-pl-front-module-utilities",
     "version": "1.0.0",
     "description": "Utilities package for frontend",
     "main": "index.js",
