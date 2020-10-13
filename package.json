@@ -1,6 +1,6 @@
 {
-    "name": "@awema-pl/utilities",
-    "version": "2.1.0",
+    "name": "@awema-pl/front-module-utilities",
+    "version": "1.0.0",
     "description": "Utilities package for frontend",
     "main": "index.js",
     "scripts": {
@@ -17,7 +17,7 @@
         "vue",
         "helpers"
     ],
-    "author": "AwesCode (https://www.awema.pl/)",
+    "author": "Awema (https://www.awema.pl/)",
     "license": "ISC",
     "dependencies": {
         "vue": "^2.6.10"
