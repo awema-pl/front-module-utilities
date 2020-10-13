@@ -17,7 +17,7 @@
         "vue",
         "helpers"
     ],
-    "author": "Awema (https://www.awema.pl/)",
+    "author": "AwesCode (https://www.awescode.de/)",
     "license": "ISC",
     "dependencies": {
         "vue": "^2.6.10"
